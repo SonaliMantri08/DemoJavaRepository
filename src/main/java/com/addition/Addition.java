@@ -9,7 +9,7 @@ public class Addition {
 	public static void main(String[] args) {
 		addition_result = a + b;
 		System.out.println("Result of addition is: " + addition_result);
-
+		System.out.println("New statement added and change is made for git pull example ");
 	}
 
 }
